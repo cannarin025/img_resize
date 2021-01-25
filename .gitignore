@@ -1,5 +1,1 @@
 .venv
-data/original/*
-data/resized/*
-!data/original/.gitkeep
-!data/resized/.gitkeep
